@@ -1,14 +1,12 @@
 # TEBD
 
-## Nivelamento 1
+## Nivelamento 1 e 2
 
 No primeiro nivelamento foi realizada uma atividade para entender e aplicar os conceitos de mapeamento Objeto-Relacional utilizando o framework Hibernate. Os procedimentos realizados nesse nivelamento foram:
 1. Download do Hibernate
 2. Adição biblioteca do Hibernate no projeto base oferecido pelo professor no Eclipse
 3. Criação da arquivo de configuração do Hibernate, o Persistence.xml
 4. Adaptação da classe Aluno e Nota para realizar o mapeamento
-
-## Nivelamento 2
 
 ## Nivelamento 3
 
